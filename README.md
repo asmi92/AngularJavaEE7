@@ -20,7 +20,7 @@
 
   * Just run `mvn wildfly:run`
   
-  * Go to http://localhost:8080/javaee7-angular/ (http://localhost:8080/javaee7-angular/)
+  * Go to http://localhost:8080/javaee7-angular/
 
 ### Deploy in Glassfish 4.1 ###
 
@@ -30,19 +30,19 @@
   
   * In the button "Deploy..." select the file javaee7-angular.war
    
-  * Go to http://localhost:8080/javaee7-angular/ (http://localhost:8080/javaee7-angular/)
+  * Go to http://localhost:8080/javaee7-angular/
   
 ### Deploy in Embedded-Glassfish 4.1 ###
 
   * Just run `mvn embedded-glassfish:run`
   
-  * Go to http://localhost:8080/javaee7-angular/ (http://localhost:8080/javaee7-angular/)
+  * Go to http://localhost:8080/javaee7-angular/
   
 ### Run with TomEE ###
 
   * Just run `mvn tomee:run`
   
-  * Go to http://localhost:8080/javaee7-angular/ (http://localhost:8080/javaee7-angular/)
+  * Go to http://localhost:8080/javaee7-angular/
   
 ## Javascript Package Management (optional) ##
 
