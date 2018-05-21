@@ -1,13 +1,5 @@
 # Java EE 7 - Angular - Sample Application #
 
-## Blog posts ##
-
-* [Java EE 7 with Angular JS – Part 1](http://www.radcortez.com/java-ee-7-with-angular-js-part-1)
-
-* [Java EE 7 with Angular JS – CRUD, REST, Validations – Part 2](http://www.radcortez.com/java-ee-7-with-angular-js-crud-rest-validations-part-2)
-
-* [Codenvy setup to demo applications using Docker: Java EE 7 with Angular](http://www.radcortez.com/codenvy-setup-to-demo-applications-using-docker-java-ee-7-with-angular/)
-
 ## How to run ? ##
 
 ## Codenvy ##
