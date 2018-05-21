@@ -1,4 +1,4 @@
-# Java EE 7 - Angular - Sample Application #
+# Angular Java EE 7 - Sample Application #
 
 ## How to run ? ##
 
